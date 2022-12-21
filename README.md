@@ -24,4 +24,5 @@ UPLOADING FILES
 4. Click on APM subfolder and again into scripts sub folder
 	note: if there is not a scripts sub folder already you can just make one titles "scripts"
 5. Upload your lua script "gimbal control and targeting" as well as your formatted text file titled "GCS_locations" to this directory
+6. If you also have a file created that provides environmental topology or obsticle data, you can upload it here as well (format for this file is TBD)
 6. Disconnect, power cycle, and reconnect autopilot. 
